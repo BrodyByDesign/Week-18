@@ -1,11 +1,9 @@
 # Week-18
 Repo for classwork in week 18
 
-Ready to code! 
-type anything!
+this is another iteration 
 
-New Change
-New Content
+iterations are called commitments 
 
-Brand New
-Look at me now! 
+once ive viewed the outcomes via Githubdesktop/ Visual Studio
+I can push to publish certain commited iterations 
